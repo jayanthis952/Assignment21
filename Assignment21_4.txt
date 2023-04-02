@@ -1,0 +1,4 @@
+4. What is the error in the following code?
+in this program here its given <p class ="text">
+but in script tage its given as document.getElementById("text")
+here its id so this is an error
